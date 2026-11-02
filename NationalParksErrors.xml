@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<NationalParks>
+<NationalPark>
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
 		<Phone>928-638-7496</Phone>
 		<Phone>888-297-2757</Phone>
 		<Phone>866-499-2574</Phone>
-		<Address NearestAirport="FlagStaff">
+		<Address>
 			<Number>8</Number>
 			<Street>S Entrance Road</Street>
 			<City>Grand Canyon</City>
@@ -17,7 +17,6 @@
 
 	<NationalPark>
 		<Name>Chiricahua</Name>
-		<Phone>520-824-3560</Phone>
 		<Address NearestAirport="Tucson">
 			<Number>12856</Number>
 			<Street>E Rhyolite Creek Rd</Street>
@@ -130,6 +129,7 @@
 
 	<NationalPark Rating="4.9">
 		<Name>Joshua Tree</Name>
+		<Name>Joshua Oranges</Name>
 		<Phone>760-367-5500</Phone>
 		<Address NearestAirport="Palm Springs">
 			<Number>6533</Number>
@@ -137,7 +137,6 @@
 			<City>Twentynine Palms</City>
 			<State>CA</State>
 			<Zip>92277</Zip>
-		</Address>
 	</NationalPark>
 
-</NationalParks>
+</NationalPark>
