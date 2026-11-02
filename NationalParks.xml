@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<NationalParks>
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Chiricahua</Name>
+		<Phone>520-824-3560</Phone>
+		<Address NearestAirport="Tucson">
+			<Number>12856</Number>
+			<Street>E Rhyolite Creek Rd</Street>
+			<City>Willcox</City>
+			<State>AZ</State>
+			<Zip>85643</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Yellowstone</Name>
+		<Phone>307-344-7381</Phone>
+		<Address NearestAirport="Yellowstone">
+			<Number>128</Number>
+			<Street>PO Box</Street>
+			<City>Mammoth</City>
+			<State>WY</State>
+			<Zip>82190</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Acadia</Name>
+		<Phone>207-288-3338</Phone>
+		<Phone>207-288-8800</Phone>
+		<Phone>207-288-8813</Phone>
+		<Address NearestAirport="Hancock County-Bar Harbor">
+			<Number>20</Number>
+			<Street>McFarland Hill Drive</Street>
+			<City>Bar Harbor</City>
+			<State>ME</State>
+			<Zip>04609</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Arches</Name>
+		<Phone>435-719-2299</Phone>
+		<Address NearestAirport="Canyonlands">
+			<Number>3</Number>
+			<Street>Summer St</Street>
+			<City>Northfield</City>
+			<State>NH</State>
+			<Zip>03276</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.4">
+		<Name>Gateway Arch</Name>
+		<Phone>314-655-1600</Phone>
+		<Address NearestAirport="St. Louis Lambert">
+			<Number>11</Number>
+			<Street>North 4th Street</Street>
+			<City>St. Louis</City>
+			<State>MO</State>
+			<Zip>63102</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.5">
+		<Name>Rocky Mountain</Name>
+		<Phone>970-586-1206</Phone>
+		<Phone>970-586-1222</Phone>
+		<Address NearestAirport="Denver">
+			<Number>1000</Number>
+			<Street>US Highway 36</Street>
+			<City>Estes Park</City>
+			<State>CO</State>
+			<Zip>80517</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.9">
+		<Name>Glacier</Name>
+		<Phone>406-888-7800</Phone>
+		<Phone>406-888-7806</Phone>
+		<Address NearestAirport="Glacier Park">
+			<Number>128</Number>
+			<Street>PO Box</Street>
+			<City>West Glacier</City>
+			<State>MT</State>
+			<Zip>59936</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Saguaro</Name>
+		<Phone>520-733-5153</Phone>
+		<Address NearestAirport="Tuscon">
+			<Number>2700</Number>
+			<Street>N Kinney Rd</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85743</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Hot Springs</Name>
+		<Phone>501-620-6715</Phone>
+		<Phone>501-620-6720</Phone>
+		<Address NearestAirport="Memorial Field">
+			<Number>101</Number>
+			<Street>Reserve St</Street>
+			<City>Hot Springs</City>
+			<State>AR</State>
+			<Zip>71901</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.9">
+		<Name>Joshua Tree</Name>
+		<Phone>760-367-5500</Phone>
+		<Address NearestAirport="Palm Springs">
+			<Number>6533</Number>
+			<Street>Freedom Wy</Street>
+			<City>Twentynine Palms</City>
+			<State>CA</State>
+			<Zip>92277</Zip>
+		</Address>
+	</NationalPark>
+
+</NationalParks>
